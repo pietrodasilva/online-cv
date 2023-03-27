@@ -9,16 +9,14 @@ sidebar:
     # Profile information
     name: Pietro Da Silva
     tagline: Solutions Consultant
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: pietro.ec.dasilva@gmail.com
     phone: 07493028529
     timezone: GMT
-    citizenship: British
-    website: blog.webjeda.com #do not add http://
+    citizenship: British / Brazilian (Dual Citizenship)
     linkedin: linkedin.com/in/pietro-da-silva
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
