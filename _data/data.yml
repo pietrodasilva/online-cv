@@ -7,26 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Pietro Da Silva
+    tagline: Solutions Consultant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
+    email: pietro.ec.dasilva@gmail.com
+    phone: 07493028529
+    timezone: GMT
+    citizenship: British
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    linkedin: linkedin.com/in/pietro-da-silva
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -35,64 +26,61 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Portuguese
+          level: Fluent
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Basketball
           link:
 
-        - item: Snowboarding
+        - item: Cyber Security
           link:
 
-        - item: Cooking
+        - item: Music Curation
+          link:
+           
+        - item: Comic Books
+          link:
+          
+        - item: Gaming
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm a Solutions Consultant with almost 2 years of experience in the AI SaaS space.
+      At Chattermill, I've been able to play an important role in driving sales and
+      revenue growth through my technical expertise and customer-facing skills. 
+      
+      As a Solutions Consultant, I'm responsible for identifying and understanding
+      customer needs through technical discoveries, developing PoC''s,
+      and delivering product demonstrations to potential clients.
+      I have a strong knowledge of the AI technologies I work with and
+      have the ability to communicate technical concepts to non-technical audiences.
+      
+      Throughout my time at Chattermill, I've continuously sought to improve and
+      enhance my skills as a promising Solutions Consultant. I'm diligent and ambitious,
+      always looking for new ways to innovate and bring value to our customers.
+      
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BSc in Computer Science
+        university: University of Essex
+        time: 2018 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - 1st Class Honours Achieved in Final Year
+            - 78% Achieved in Independent Dissertation
+            - Notable Modules: Software Engineering (90%), Java (80%), Computer Security (87%)
+   
 experiences:
-    title: Experiences
+    title: Professional Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Solutions Consultant
+        time: 2021 - Present
+        company: Chattermill, London
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -109,113 +97,73 @@ experiences:
         time: 2014 - 2015
         company: Google, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+         Working alongside Sales and Account Management to deliver and
+         manage standard or bespoke demonstrations to prospective clients.
+         
+         Assisting the sales process, inclusive of RFP completion and PoC’s.
+
+         Designing, developing and delivering solutions to clients that enable
+         business growth, recovery from business pains and gaining
+         a competitive edge in their market spaces.
+
+         Built and maintained the demonstration environments in line with
+         product developments and releases.
+
+         Preparing supporting documentation for internal processes.
+
+         Ensuring that deliverables are on time at the required level of quality.
+
+         Positively influencing sales to achieve results.
+
+         Working with clients to learn their business and better understand their
+         needs in order to determine how the software platform can best address
+         their issues.
+
+         Offering technical and value analysis of CX data to determine
+         the output results are understood by the client.
+         
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Included are some of the projects I've undertaken in my own time.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Task Manager for Travel Agent
+        tagline: "A responsive flight booking system with an intuitive UI, and a sucessful database integration for account and passenger details. Functioning log-in system was implemented with security features such as 2FA, locking the account and changing the password via email reset."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: House Price Predictor (Group Project)
+        tagline: "Python program that determined house prices via predictive statical methods. Agile methodology adopted alongside the use of JIRA to enable management of workloads and timelines for the group. Co-ordinated with my team to better understand the role of a scrum master and the responsibilities that it involves, including organising team syncs and assessing value-adds."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Student Mark Analysis Software
+        tagline: "Designed and implemented a responsive tool for teacher to access a database that held student marks. Enabled statistical analysis of student's marks through plotted graphs and trend reports. Held role of scrum master for 2 sprints during the project, delegating tasks and designating the appropriate amnount of story poitns for issues and tasks. Contributed to large sections of the technical documentation including the marketing research and product testing."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Task Manager Website
+        tagline: "Website to keep track, store and organise personal tasks. Adopted MySQL and PHP to implement the database. Site coded in HTML & CSS."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Technical Consultatation
+        level: 98%
+        
+      - name: Product Demonstration
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Requirements Analysis & Discovery
         level: 98%
 
-      - name: Angular
+      - name: Solution Architecture
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Stakeholder Management
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Python
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Internal Documentation
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
