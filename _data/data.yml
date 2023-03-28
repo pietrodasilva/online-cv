@@ -52,14 +52,14 @@ career-profile:
       At Chattermill, I've been able to play an important role in driving sales and
       revenue growth through my technical expertise and customer-facing skills. 
       
-      As a Solutions Consultant, I'm responsible for identifying and understanding
-      customer needs through technical discoveries, developing PoC''s,
+      As an SC, I'm responsible for identifying and understanding
+      customer needs through technical discoveries, developing PoC's,
       and delivering product demonstrations to potential clients.
       I have a strong knowledge of the AI technologies I work with and
       have the ability to communicate technical concepts to non-technical audiences.
       
       Throughout my time at Chattermill, I've continuously sought to improve and
-      enhance my skills as a promising Solutions Consultant. I'm diligent and ambitious,
+      enhance my skills as a promising SC. I'm diligent and ambitious,
       always looking for new ways to innovate and bring value to our customers.
       
 education:
@@ -69,7 +69,7 @@ education:
         university: University of Essex
         time: 2018 - 2021
         details: |
-            - 1st Class Honours Achieved in Final Year
+            1st Class Honorus Achieved in Final Year
             - 78% Achieved in Independent Dissertation
             - Notable Modules: Software Engineering (90%), Java (80%), Computer Security (87%)
    
@@ -107,8 +107,7 @@ experiences:
          
 projects:
     title: Projects
-    intro: >
-      Included are some of the projects I've undertaken in my own time.
+
     assignments:
       - title: Task Manager for Travel Agent
         tagline: "A responsive flight booking system with an intuitive UI, and a sucessful database integration for account and passenger details. Functioning log-in system was implemented with security features such as 2FA, locking the account and changing the password via email reset."
