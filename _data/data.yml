@@ -128,24 +128,24 @@ skills:
 
     toolset:
       - name: Technical Consultatation
-        level: 98%
+        level: 95%
         
       - name: Product Demonstration
-        level: 98%
-
-      - name: Requirements Analysis & Discovery
-        level: 98%
-
-      - name: Solution Architecture
-        level: 98%
-
-      - name: Stakeholder Management
         level: 95%
 
+      - name: Requirements Analysis & Discovery
+        level: 92%
+
+      - name: Solution Architecture
+        level: 87%
+
+      - name: Stakeholder Management
+        level: 83%
+
       - name: Python
-        level: 85%
+        level: 80%
 
       - name: Internal Documentation
-        level: 60%
+        level: 75%
 
 footer: >
