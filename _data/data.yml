@@ -48,19 +48,23 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a Solutions Consultant with almost 2 years of experience in the AI SaaS space.
-      At Chattermill, I've been able to play an important role in driving sales and
-      revenue growth through my technical expertise and customer-facing skills. 
+      A Solutions Consultant with nearly 3 years of experience in the AI and
+      SaaS sectors, with a proven track record of driving business growth and
+      customer success in competitive markets, by leveraging my technical
+      experience and strong customer-facing skills.
       
-      As an SC, I'm responsible for identifying and understanding
-      customer needs through technical discoveries, developing PoC's,
-      and delivering product demonstrations to potential clients.
+      I've led and assisted in identifying and understanding
+      customer needs through technical discoveries, developing PoC's that tackle
+      customer-centric solutions, and delivering compelling product demonstrations
+      to potential clients.
+     
       I have a strong knowledge of the AI technologies I work with and
-      have the ability to communicate technical concepts to non-technical audiences.
+      have the ability to communicate technical concepts to non-technical audiences,
+      in an effective manner.
       
-      Throughout my time at Chattermill, I've continuously sought to improve and
-      enhance my skills as a promising SC. I'm diligent and ambitious,
-      always looking for new ways to innovate and bring value to our customers.
+      Throughout my time at Chattermill, I've continuously sought to further my professional
+      development and add to my SC skill set. This allows me to consistently seek new ways to
+      drive value to potential clients.
       
 education:
     title: Education
@@ -80,16 +84,20 @@ experiences:
         time: 2021 - Present
         company: Chattermill, London
         details: |
-          Working alongside Sales and Account Management to deliver and
-          manage standard or bespoke demonstrations to prospective clients.
-         
+          Partnering with sales and account management teams to deliver high-impact
+          product demonstrations and drive the sales process by articulating the
+          distinct advantages of our platforms to prospective clients.
+
+          Facilitating comprehensive discovery sessions, in order to accurately scope
+          customer needs and challenges, their techincal requirements and strategic use cases.
+
           Assisting the sales process, inclusive of RFP completion and PoC’s.
 
-          Designing, developing and delivering solutions to clients that enable
-          business growth, recovery from business pains and gaining
-          a competitive edge in their market spaces.
+          Managing multiple customer engagements simultaneously, developing and 
+          maintaining strong relationships to ensure alignment of strategic business
+          objectives.
 
-          Built and maintained the demonstration environments in line with
+          Buiding and maintaining the demonstration environments in line with
           product developments and releases.
 
           Preparing supporting documentation for internal processes.
@@ -98,12 +106,7 @@ experiences:
 
           Positively influencing sales to achieve results.
 
-          Working with clients to learn their business and better understand their
-          needs in order to determine how the software platform can best address
-          their issues.
-
-          Offering technical and value analysis of CX data to determine
-          the output results are understood by the client.   
+          
          
 projects:
     title: Projects
@@ -128,24 +131,24 @@ skills:
 
     toolset:
       - name: Technical Consultatation
-        level: 95%
+        #level: 95%
         
       - name: Product Demonstration
-        level: 95%
+        #level: 95%
 
       - name: Requirements Analysis & Discovery
-        level: 92%
+        #level: 92%
 
       - name: Solution Architecture
-        level: 87%
+       # level: 87%
 
       - name: Stakeholder Management
-        level: 83%
+       # level: 83%
 
       - name: Python
-        level: 80%
+       # level: 80%
 
       - name: Internal Documentation
-        level: 75%
+       # level: 75%
 
 footer: >
