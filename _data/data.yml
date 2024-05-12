@@ -42,7 +42,7 @@ sidebar:
         - item: Comic Books
           link:
           
-        - item: Gaming
+        - item: RP / Gaming
           link:
 
 career-profile:
@@ -81,28 +81,29 @@ experiences:
         time: 2021 - Present
         company: Chattermill, London
         details: |
-          Partnering with sales and account management teams to deliver high-impact
-          product demonstrations and drive the sales process by articulating the
-          distinct advantages of our platforms to prospective clients.
+          Successfully closed 60% of the deals assigned to me in 2022-2024, in addition to
+          a 70% technical win rate.
+          
+          Partnering with sales and account management teams to deliver high-impact product
+          demonstrations and drive the sales process by articulating the distinct advantages
+          of our platforms to prospective clients.
 
-          Facilitating comprehensive discovery sessions, in order to accurately scope
-          customer needs and challenges, their techincal requirements and strategic use cases.
+          Facilitating comprehensive discovery sessions, in order to accurately scope customer
+          needs and challenges, their techincal requirements and strategic use cases.
 
-          Assisting the sales process, inclusive of RFP completion and PoC’s.
+          Managing multiple customer engagements simultaneously, developing and maintaining
+          strong relationships to ensure alignment of strategic business objectives.
 
-          Managing multiple customer engagements simultaneously, developing and 
-          maintaining strong relationships to ensure alignment of strategic business
-          objectives.
+          Contributing to the sales process, inclusive of RFP completion and PoC’s.
 
-          Buiding and maintaining the demonstration environments in line with
-          product developments and releases.
-
+          Buiding and maintaining the demonstration environments in line with product developments
+          and releases.
+          
           Preparing supporting documentation for internal processes.
 
           Ensuring that deliverables are on time at the required level of quality.
 
           Positively influencing sales to achieve results.
-
           
          
 projects:
@@ -134,6 +135,9 @@ skills:
         #level: 95%
 
       - name: Requirements Analysis & Discovery
+        #level: 92%
+    
+      - name: Integrations & API Process
         #level: 92%
 
       - name: Solution Architecture
