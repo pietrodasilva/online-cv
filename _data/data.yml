@@ -29,23 +29,23 @@ sidebar:
 
 
     skills:
-        title: Skills
-        info:
-          - item: Technical Consultation
+      title: Skills
+      info:
+        - item: Technical Consultation
           
-          - item: Product Demonstration
+        - item: Product Demonstration
           
-          - item: Requirements Analysis & Discovery
+        - item: Requirements Analysis & Discovery
           
-          - item: Integrations & API Process
+        - item: Integrations & API Process
 
-          - item: Solution Architecture
+        - item: Solution Architecture
           
-          - item: Stakeholder Management
+        - item: Stakeholder Management
           
-          - item: Python
+        - item: Python
           
-          - item: Internal Documentation
+        - item: Internal Documentation
 
     interests:
       title: Interests
