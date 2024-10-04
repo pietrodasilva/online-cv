@@ -27,6 +27,26 @@ sidebar:
         - idiom: Portuguese
           level: Fluent
 
+
+    skills:
+        title: Skills
+        info:
+          - item: Technical Consultation
+          
+          - item: Product Demonstration
+          
+          - item: Requirements Analysis & Discovery
+          
+          - item: Integrations & API Process
+
+          - item: Solution Architecture
+          
+          - item: Stakeholder Management
+          
+          - item: Python
+          
+          - item: Internal Documentation
+
     interests:
       title: Interests
       info:
@@ -127,32 +147,32 @@ projects:
       - title: Student Mark Analysis Software
         tagline: "Designed and implemented a responsive tool for teacher to access a database that held student marks. Enabled statistical analysis of student's marks through plotted graphs and trend reports. Held role of scrum master for 2 sprints during the project, delegating tasks and designating the appropriate amnount of story points for issues and tasks. Contributed to large sections of the technical documentation including the marketing research and product testing."
 
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+    #title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Technical Consultatation
+    #toolset:
+      #- name: Technical Consultatation
         #level: 95%
         
-      - name: Product Demonstration
+      #- name: Product Demonstration
         #level: 95%
 
-      - name: Requirements Analysis & Discovery
+      #- name: Requirements Analysis & Discovery
         #level: 92%
         
-      - name: Integrations & API Process
+      #- name: Integrations & API Process
         #level: 92%
 
-      - name: Solution Architecture
+     # - name: Solution Architecture
        # level: 87%
 
-      - name: Stakeholder Management
+      #- name: Stakeholder Management
        # level: 83%
 
-      - name: Python
+      #- name: Python
        # level: 80%
 
-      - name: Internal Documentation
+     # - name: Internal Documentation
        # level: 75%
 
 footer: >
