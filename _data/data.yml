@@ -32,20 +32,28 @@ sidebar:
       title: Skills
       info:
         - item: Technical Consultation
+          link:
           
         - item: Product Demonstration
+          link:
           
         - item: Requirements Analysis & Discovery
+          link:
           
         - item: Integrations & API Process
+          link:
 
         - item: Solution Architecture
+          link:
           
         - item: Stakeholder Management
+          link:
           
         - item: Python
+          link:
           
         - item: Internal Documentation
+          link:
 
     interests:
       title: Interests
