@@ -93,34 +93,29 @@ experiences:
         company: Chattermill, London
         details: |
           Took ownership of leading deals towards technical selection within the sales cycle, directly contributing
-          to achieving +100% of sales targets for Q1, and Q2 2025. 
+          to surpass 100% of sales targets in Q1 and Q2 2025.
 
           Regularly lead Proof of Concepts for enterprise prospects, translating technical requirements into tailored
-          solutions that demonstrate strategic business value, typically achieving a 70% technical selection rate on assigned deals.
+          solutions that demonstrate strategic business value, resulting in a 70% technical selection rate across assigned opportunities.
 
-          Partnering with sales and account management teams to deliver high-impact product demonstrations
-          and drive the sales process by articulating the distinct differentiators of our solution to prospective clients.
+          Closely partnered with sales teams to deliver high-impact product demonstrations, articulate solution differentiators,
+          and support RFP / RFI responses to drive the sales process forward.
 
-          Project-managed a complex enterprise opportunity, aligning technical and business teams to mitigate
-          delivery risk and ensure smooth deployment of a scalable, reliable solution, while ensuring task completion
-          and accelerating deal progression and technical success.
-
-          Lead discovery sessions to scope customer needs and design integration architectures focused on platform 
+          Led discovery sessions to scope customer needs and design integration architectures focused on platform 
           scalability, data integrity, and operational success across enterprise environments.
 
-          Managing multiple customer engagements simultaneously, developing and maintaining strong relationships
-          with prospects to ensure I'm a trusted advisor within the project cycle.
+          Project-managed complex enterprise evaluations, aligning cross-functional teams to mitigate delivery risk,
+          ensure deployment readiness, and accelerate deal progression.
 
-          Positively and reliably contributing to the sales process, inclusive of RFP completion and PoC’s.
+          Built and maintained robust demo environments to support PoCs and customer evaluations.
 
-          Built and maintained robust demo environments to support PoCs, prioritizing stability, data integrity,
-          and platform performance to simulate production-ready conditions.
+          Managed multiple enterprise engagements simultaneously, building trusted advisor relationships with technical
+          and business stakeholders through the pre-sales lifecycle.
 
-          Conducted comprehensive internal training sessions for new hires on the technical aspects of Chattermill’s
-          AI-driven SaaS platform, ensuring they quickly gained proficiency in product features, integration processes,
-          and best practices for customer success.
-
-          Create and maintain technical documentation for internal processes.
+          Conducted onboarding sessions for new hires, training them on the technical capabilities and integration processes of
+          Chattermill's AI-driven SaaS platform.
+          
+          Authored and maintained internal technical documentation to support team efficiency and onboarding.
          
 projects:
     title: Projects
@@ -130,13 +125,13 @@ projects:
         tagline: "Conducted a comprehensive dissertation research project to classify galaxy types using machine learning, achieving an accuracy of 82.5% with the VGG16 model. I demonstrated strong data preprocessing skills by normalizing input images and augmenting the dataset to iteratively improve model performance. Applied model training and hyperparameter tuning in Python by experimenting with different configurations and techniques to optimize results."
 
       - title: Task Manager for Travel Agent
-        tagline: "A responsive flight booking system with an intuitive UI, and a successful database integration for account and passenger details. Functioning log-in system was implemented with security features such as 2FA, locking the account and changing the password via email reset."
+        tagline: "A responsive flight booking system with an intuitive UI, and a successful database integration for account and passenger details. A functioning log-in system was implemented with security features such as 2FA, locking the account and changing the password via email reset."
 
       - title: House Price Predictor
-        tagline: "Python program that determined house prices via predictive statical methods. Agile methodology adopted alongside the use of JIRA to enable management of workloads and timelines for the group. Co-ordinated with my team to better understand the role of a scrum master and the responsibilities that it involves, including organising team syncs and assessing value-adds."
+        tagline: "Python program that determined house prices via predictive statistical methods. Agile methodology adopted alongside the use of JIRA to enable management of workloads and timelines for the group. Co-ordinated with my team to better understand the role of a scrum master and the responsibilities that it involves, including organising team syncs and assessing value-adds."
 
       - title: Student Mark Analysis Software
-        tagline: "Designed and implemented a responsive tool for teacher to access a database that held student marks. Enabled statistical analysis of student's marks through plotted graphs and trend reports. Held role of scrum master for 2 sprints during the project, delegating tasks and designating the appropriate amnount of story points for issues and tasks. Contributed to large sections of the technical documentation including the marketing research and product testing."
+        tagline: "Designed and implemented a responsive tool for teachers to access a database that held student marks. Enabled statistical analysis of student's marks through plotted graphs and trend reports. Held role of scrum master for 2 sprints during the project, delegating tasks and designating the appropriate amount of story points for issues and tasks. Contributed to large sections of the technical documentation including the marketing research and product testing."
 
 #skills:
     #title: Skills &amp; Proficiency
